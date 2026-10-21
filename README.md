@@ -1,0 +1,1 @@
+1. In order to preserve the value of data of a number in array alongside its index use HashMap . although its space complexity of O(n) but it reduces the space complexity significantly form O(n^2) to O(n)
